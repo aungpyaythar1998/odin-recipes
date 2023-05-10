@@ -1,0 +1,17 @@
+* {
+    font-family: Verdana, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #a9a1a0;
+    color: white;
+}
+
+a {
+    color: #624e4a;
+}
+
+img {
+    width: 350px;
+    height: auto;
+}
